@@ -1,8 +1,8 @@
 # 912Communication
 
-![912Communication Logo](url/to/team/logo.png)
 
 ## 팀 소개
+<img src="https://github.com/user-attachments/assets/64865fd2-c8bd-49e7-9fb6-5acfbf3476a6" width="400" />
 
 **912Communication**은 커뮤니케이션 기술과 솔루션을 개발하여 세상을 더 연결된 곳으로 만드는 것을 목표로 하는 팀입니다. 우리는 최신 기술을 활용하여 혁신적인 프로젝트를 수행하며, 다양한 분야의 전문가들이 모여 협력하고 있습니다.
 
