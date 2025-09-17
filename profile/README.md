@@ -21,7 +21,7 @@
 |--------------|-----------------|---------------------------------------------------|
 | 황규빈       | 백엔드 개발자         | [Gyuuub](https://github.com/Gyuub)     |
 | 김명섭       | 프론트 개발자         | [kms99](https://github.com/kms99)     |
-| 조우란       | AI 연구원         | [WooranJo](https://github.com/WooranJo)     |
+| 김용민       | AI 연구원         |      |
 | 오경석       | AI 연구원         | [kyungseok97](https://github.com/kyungseok97)     |
 
 ## 연락처
